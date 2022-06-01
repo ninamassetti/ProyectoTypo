@@ -1,0 +1,54 @@
+
+@font-face {
+    font-family: Skolar Sans Latin ;
+    src: url('../fuente/SKOLAR.otf');
+}
+
+@font-face {
+    font-family: Forma DJR Deck;
+    src: url('../fuente/FORMA.otf');
+}
+
+@font-face {
+    font-family: futura-pt-bold;
+    src: url('../fuente/futura.otf');
+}
+h1 { 
+    color: blue;
+    font-family: futura-pt-bold, sans-serif;
+    font-size: 200px;
+ font-weight: 800;
+ text-transform: uppercase;
+ font-style: normal;
+ padding: 0;
+ margin: 0;
+}
+
+h2 { 
+    font-family: Forma DJR Deck;
+    font-weight: 900;
+    font-size: 35px;
+    letter-spacing: 10px;
+text-transform: uppercase;
+text-align: right;
+}
+li{
+    display: inline-block;
+   margin-left: 150px;
+   
+}
+ul{
+ text-align: right;
+ margin-right: 50px;
+}
+p {
+    font-family:Skolar Sans Latin ;
+    font-weight: 200;
+}
+.piedepag{
+    font-family:Skolar Sans Latin ;
+    font-weight: 200;
+    font-size: 22px;
+    text-align: right;
+    line-height: 5px;
+}
